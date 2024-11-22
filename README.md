@@ -10,6 +10,7 @@ It contains:
 - xlsx generation via [node-xlsx](https://github.com/mgcrea/node-xlsx)
 - csv generation via [node-csv](https://github.com/adaltas/node-csv) 
 - sftp capabilities via [ssh2-sftp-client](https://github.com/theophilusx/ssh2-sftp-client)
+- date formatting via [dayjs](https://github.com/iamkun/dayjs)
 
 The generic.cl file is an example CL program for running the node application. There is an example handler as well as an example repository. Some of the utility functions are already defined. 
 
