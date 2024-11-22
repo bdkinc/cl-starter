@@ -1,4 +1,4 @@
-import { log, http } from "../utils.js";
+import { log, http } from "../lib/utils.js";
 import "dotenv/config";
 
 /**

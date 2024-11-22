@@ -1,4 +1,4 @@
-import { db, log } from "../utils.js";
+import { db, log } from "../lib/utils.js";
 
 /**
  * @param order {any}
