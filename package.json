@@ -15,7 +15,6 @@
     "@types/node": "^22.9.1",
     "@types/node-xlsx": "^0.15.3",
     "@types/nodemailer": "^6.4.17",
-    "@types/winston": "^2.4.4",
     "prettier": "^3.3.3",
     "typescript": "^5.6.3"
   },
